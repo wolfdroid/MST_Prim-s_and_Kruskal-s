@@ -8,7 +8,10 @@ Simple visualization for Minimum Spanning Tree using Prim's and Kruskal's Algori
 
     e.g : `Python Kruskal.py dataset1.txt`
     
-### Article Paper for Perfomance Analysist 
+### See the study on Research Gate
+<a href = "http://bit.ly/PaperAnalysistPerf">
+  <img src="https://media.glassdoor.com/sqll/526840/researchgate-squarelogo-1488811667083.png" width="5%" height="5%">
+</a>
 
 ### Make sure you already installed `Matplotlib` and `Networkx` package
 
