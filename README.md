@@ -13,8 +13,4 @@ Simple visualization for Minimum Spanning Tree using Prim's and Kruskal's Algori
   <img src="https://media.glassdoor.com/sqll/526840/researchgate-squarelogo-1488811667083.png" width="5%" height="5%">
 </a>
 
-### Make sure you already installed `Matplotlib` and `Networkx` package
-
-### Documentation
-![](Documentation/example1.png)
-![](Documentation/example2.png)
+### Check the Documentation Folder for examples of the output
